@@ -1,4 +1,7 @@
-Command to add a new user:
+
+**dagrus htaccess
+
+Commands to add a new user:
 ```
     cd /data/spoco-spisz/
     $ htpasswd .htusers test
