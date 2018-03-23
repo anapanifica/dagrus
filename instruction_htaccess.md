@@ -1,6 +1,4 @@
 
-##dagrus htaccess
-
 Commands to add a new user:
 ```
     cd /data/spoco-spisz/
