@@ -1,8 +1,8 @@
 
 Commands to add a new user:
 ```
-    cd /data/spoco-spisz/
-    $ htpasswd .htusers test
+    cd /var/www/html/dagrus/jsapp/pages
+    $ htpasswd .htaccess test
     New password:
     Re-type new password:
     Adding password for user test
