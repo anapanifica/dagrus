@@ -1,7 +1,7 @@
 
 Commands to add a new user:
 ```
-    cd /var/www/html/dagrus/jsapp/pages
+    cd /var/www/parasolcorpus.org/html/dagrus/jsapp/pages
     htpasswd .htpasswd test 
     New password:
     Re-type new password:
